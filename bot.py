@@ -1,5 +1,7 @@
-import telebot
 import logging
+
+import telebot
+
 from config import *
 
 
